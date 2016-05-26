@@ -1,5 +1,5 @@
-var agenda = 52;
+var Mimi = 52;
 
 function affiche () {
-	console.log(agenda);
+	console.log(Mimi);
 }
