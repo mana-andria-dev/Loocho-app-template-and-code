@@ -1,5 +1,5 @@
-var LW_64 = 52;
+var mzster = 52;
 
 function affiche () {
-	console.log(LW_64);
+	console.log(mzster);
 }
