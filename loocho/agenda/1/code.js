@@ -1,5 +1,5 @@
-var Mimi = 52;
+var LW_63 = 52;
 
 function affiche () {
-	console.log(Mimi);
+	console.log(LW_63);
 }
