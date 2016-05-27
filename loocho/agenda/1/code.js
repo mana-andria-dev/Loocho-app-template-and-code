@@ -1,5 +1,5 @@
-var LW_63 = 52;
+var Master = 52;
 
 function affiche () {
-	console.log(LW_63);
+	console.log(Master);
 }
