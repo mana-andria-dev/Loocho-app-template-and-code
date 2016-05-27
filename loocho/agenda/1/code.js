@@ -1,5 +1,5 @@
-var LW_63 = 52;
+var LW_64 = 52;
 
 function affiche () {
-	console.log(LW_63);
+	console.log(LW_64);
 }
