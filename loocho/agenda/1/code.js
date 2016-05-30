@@ -1,5 +1,5 @@
-var wh_6 = 52;
+var wh_7 = 52;
 
 function affiche () {
-	console.log(wh_6);
+	console.log(wh_7);
 }
