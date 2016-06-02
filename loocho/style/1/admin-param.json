@@ -1,0 +1,19 @@
+[
+  {
+    "menu": "General",
+    "parameters": [
+      {
+        "name": "bold",
+        "title": "Display important data in bold",
+        "type": "boolean",
+        "default": false
+      },
+      {
+        "name": "nbRows",
+        "title": "Number of rows per page",
+        "type": "number",
+        "default": 10
+      }
+    ]
+  }
+]
