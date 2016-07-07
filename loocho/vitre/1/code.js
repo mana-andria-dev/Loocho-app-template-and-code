@@ -1,1 +1,0 @@
-var vitre = 'vitre';
